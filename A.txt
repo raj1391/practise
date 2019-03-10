@@ -6,3 +6,4 @@ fld2 line 4 added - commit
 
 commitline for 1st conflict F1
 commitline for 2nd cmit F1
+commitline for 3rd commit F1
